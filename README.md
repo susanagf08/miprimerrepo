@@ -5,3 +5,5 @@ Este es mi primer repositorio para las clases de Git
 Añado otra línea para mostrar como funciona fetch
 
 añado de nuevo una linea mas para mostrar como funciona pull
+
+Edito esta linea para probar que no puedo hacer push sin hacer pull
